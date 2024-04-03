@@ -4,5 +4,5 @@ def Homepage(request):
 def addition(a,b):
     return a+b
 
-def substraction(a,b,c):
-    return a-b-c
+def substraction(a,b,d):
+    return a-b-d
